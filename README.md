@@ -1,16 +1,29 @@
 # 🪆 Matryoshka VPN
 
+[🇬🇧 English Version](README_EN.md)
+
 **Nested Freedom for RuNet.**
 
-Automated collector of VPN configs, filtered for Russian White List Service (SNI/CIDR bypass).
+Автоматический сборщик VPN конфигураций, отфильтрованный для обхода блокировок в России (White List SNI/CIDR).
 
-## � Configs
+> 📱 **Рекомендуется использовать приложение [Hiddify](https://github.com/hiddify/hiddify-next/releases)** для максимальной совместимости.
 
-| File | Description | Time (MSK) | Date |
+## 📦 Configs
+
+| Файл | Описание | Время (МСК) | Дата |
 |--|--|--|--|
-| [`russia_whitelist.txt`](https://github.com/FLEXIY0/matryoshka-vpn/raw/refs/heads/main/configs/russia_whitelist.txt) | 🇷🇺 Russia White List Only | 16:39 | 07.01.2026 |
+| [`russia_whitelist.txt`](https://github.com/FLEXIY0/matryoshka-vpn/raw/main/configs/russia_whitelist.txt) | 🇷🇺 Россия White List (Только белые списки) | 16:57 | 07.01.2026 |
 
-## 🚀 How to use
-Copy the link to the file and add it to your V2Ray/XRay client as a subscription.
+## 🚀 Как использовать
 
-*Updates automatically.*
+Скопируйте ссылку ниже или отсканируйте QR-код в приложении **Hiddify**.
+
+![QR Code]()
+
+*Автоматическое обновление каждые несколько часов.*
+
+---
+#### Support / Поддержка
+DT: `TNmoKXWbNDMuGJxyaHALzk6zNYZFDDhM8J` (TRC20 USDT)
+
+TON: `UQCD6FJjYM8T-oprHp6zb6X5-S-ETWiR27uIfXsuFv9fPQ2Z`
