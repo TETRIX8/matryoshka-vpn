@@ -14,7 +14,7 @@ Automated collector of VPN configs, filtered for Russian White List Service (SNI
 
 | File | Description | Time (MSK) | Date |
 |--|--|--|--|
-| [`russia_whitelist.txt`](https://github.com/FLEXIY0/matryoshka-vpn/raw/main/configs/russia_whitelist.txt) | 🇷🇺 White List (V2Ray format) | 17:25 | 08.01.2026 |
+| [`russia_whitelist.txt`](https://github.com/FLEXIY0/matryoshka-vpn/raw/main/configs/russia_whitelist.txt) | 🇷🇺 White List (V2Ray format) | 17:40 | 08.01.2026 |
 
 ### Clash Verge / Clash Meta
 
@@ -22,7 +22,7 @@ Automated collector of VPN configs, filtered for Russian White List Service (SNI
 
 | File | Description | Time (MSK) | Date |
 |--|--|--|--|
-| [`russia_whitelist_clash.yaml`](https://github.com/FLEXIY0/matryoshka-vpn/raw/main/configs/russia_whitelist_clash.yaml) | 🇷🇺 White List (Clash YAML) | 17:25 | 08.01.2026 |
+| [`russia_whitelist_clash.yaml`](https://github.com/FLEXIY0/matryoshka-vpn/raw/main/configs/russia_whitelist_clash.yaml) | 🇷🇺 White List (Clash YAML) | 17:40 | 08.01.2026 |
 
 ### sing-box / Other Clients
 
@@ -30,7 +30,7 @@ Automated collector of VPN configs, filtered for Russian White List Service (SNI
 
 | File | Description | Time (MSK) | Date |
 |--|--|--|--|
-| [`russia_whitelist_base64.txt`](https://github.com/FLEXIY0/matryoshka-vpn/raw/main/configs/russia_whitelist_base64.txt) | 🇷🇺 White List (Base64) | 17:25 | 08.01.2026 |
+| [`russia_whitelist_base64.txt`](https://github.com/FLEXIY0/matryoshka-vpn/raw/main/configs/russia_whitelist_base64.txt) | 🇷🇺 White List (Base64) | 17:40 | 08.01.2026 |
 
 ### JSON (Universal Format)
 
@@ -38,7 +38,7 @@ Automated collector of VPN configs, filtered for Russian White List Service (SNI
 
 | File | Description | Time (MSK) | Date |
 |--|--|--|--|
-| [`russia_whitelist.json`](https://github.com/FLEXIY0/matryoshka-vpn/raw/main/configs/russia_whitelist.json) | 🇷🇺 White List (JSON) | 17:25 | 08.01.2026 |
+| [`russia_whitelist.json`](https://github.com/FLEXIY0/matryoshka-vpn/raw/main/configs/russia_whitelist.json) | 🇷🇺 White List (JSON) | 17:40 | 08.01.2026 |
 
 *Updates automatically every 4 hours.*
 
