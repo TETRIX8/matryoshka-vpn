@@ -12,7 +12,7 @@ Automated collector of VPN configs, filtered for Russian White List Service (SNI
 
 | File | Description | Time (MSK) | Date |
 |--|--|--|--|
-| [`russia_whitelist.txt`](https://github.com/FLEXIY0/matryoshka-vpn/raw/main/configs/russia_whitelist.txt) | 🇷🇺 White List (V2Ray format) | 16:15 | 08.01.2026 |
+| [`russia_whitelist.txt`](https://github.com/FLEXIY0/matryoshka-vpn/raw/main/configs/russia_whitelist.txt) | 🇷🇺 White List (V2Ray format) | 16:31 | 08.01.2026 |
 
 ### ⚡ Clash Verge / Clash Meta
 
@@ -20,7 +20,7 @@ Automated collector of VPN configs, filtered for Russian White List Service (SNI
 
 | File | Description | Time (MSK) | Date |
 |--|--|--|--|
-| [`russia_whitelist_clash.yaml`](https://github.com/FLEXIY0/matryoshka-vpn/raw/main/configs/russia_whitelist_clash.yaml) | 🇷🇺 White List (Clash YAML) | 16:15 | 08.01.2026 |
+| [`russia_whitelist_clash.yaml`](https://github.com/FLEXIY0/matryoshka-vpn/raw/main/configs/russia_whitelist_clash.yaml) | 🇷🇺 White List (Clash YAML) | 16:31 | 08.01.2026 |
 
 *Updates automatically every 4 hours.*
 
