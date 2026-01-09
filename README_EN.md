@@ -1,40 +1,25 @@
-# Matryoshka VPN
+# 🪆 Matryoshka VPN
 
-> *Nobody sponsors VPN usage like Roskomnadzor does*
+[🇷🇺 Русская версия](README.md)
 
-Automated VPN config collector for bypassing Russian censorship.
+**Nested Freedom for RuNet.**
 
-[🇷🇺 Русский](README.md)
+Automated collector of VPN configs, filtered for Russian White List Service (SNI/CIDR bypass).
 
----
+> **I recommend using the [Hiddify](https://github.com/hiddify/hiddify-next/releases) app** for best compatibility.
 
-## Configs
-
-| File | Description | Updated |
-|------|-------------|---------|
-| [![Config](https://img.shields.io/badge/russia__whitelist.txt-copy-blue?style=flat-square)](https://github.com/FLEXIY0/matryoshka-vpn/raw/main/configs/russia_whitelist.txt) | Approved International Locations | 13:40 09.01.2026 |
-
-
+| File | Description | Time (MSK) | Date |
+|--|--|--|--|
+| [`russia_whitelist.txt`](https://github.com/FLEXIY0/matryoshka-vpn/raw/main/configs/russia_whitelist.txt) | 🇷🇺 Russia White List Only | 13:45 | 09.01.2026 |
 
 <p align="center">
   <img src="https://github.com/FLEXIY0/matryoshka-vpn/raw/main/configs/qr.png" alt="QR Code" width="200" />
 </p>
 
-**Recommended clients:** Hiddify, Kering, Necobox, V2Ray
+*Updates automatically.*
 
 ---
+#### Support
+DT: `TNmoKXWbNDMuGJxyaHALzk6zNYZFDDhM8J` (TRC20 USDT)
 
-**Filtering:**
-- **Only servers with Country Flags 🏳️**
-- Removes configs without emoji
-- Blocks sanctioned countries (RU, BY, IR, CN, KP, CU)
-- Updates every 4 hours
-
----
-
-### Support
-
-```
-USDT (TRC20): TNmoKXWbNDMuGJxyaHALzk6zNYZFDDhM8J
-TON:          UQCD6FJjYM8T-oprHp6zb6X5-S-ETWiR27uIfXsuFv9fPQ2Z
-```
+TON: `UQCD6FJjYM8T-oprHp6zb6X5-S-ETWiR27uIfXsuFv9fPQ2Z`
