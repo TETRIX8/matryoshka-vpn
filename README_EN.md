@@ -12,7 +12,7 @@ Automated VPN config collector for bypassing Russian censorship.
 
 | File | Description | Updated |
 |------|-------------|---------|
-| [![Config](https://img.shields.io/badge/russia__whitelist.txt-copy-blue?style=flat-square)](https://github.com/FLEXIY0/matryoshka-vpn/raw/main/configs/russia_whitelist.txt) | Whitelist (non-RU servers) | 13:30 09.01.2026 |
+| [![Config](https://img.shields.io/badge/russia__whitelist.txt-copy-blue?style=flat-square)](https://github.com/FLEXIY0/matryoshka-vpn/raw/main/configs/russia_whitelist.txt) | Approved International Locations | 13:35 09.01.2026 |
 
 
 
