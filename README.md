@@ -1,4 +1,4 @@
-#🪆 Matryoshka VPN
+# 🪆 Matryoshka VPN
 
 > *Никто так не спонсирует использование VPN, как Роскомнадзор*
 
@@ -7,7 +7,7 @@
 
 | Файл | Описание | Время (МСК) | Дата |
 |------|----------|-------------|------|
-| [`russia_whitelist.txt`](https://github.com/FLEXIY0/matryoshka-vpn/raw/main/configs/russia_whitelist.txt) | Проверенные зарубежные узлы | 15:56 | 09.01.2026 |
+| [`russia_whitelist.txt`](https://github.com/FLEXIY0/matryoshka-vpn/raw/main/configs/russia_whitelist.txt) | Проверенные зарубежные узлы | 16:10 | 09.01.2026 |
 
 **Ссылка для подписки:**
 ```text
