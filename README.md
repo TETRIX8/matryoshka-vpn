@@ -7,7 +7,7 @@
 
 | Файл | Описание | Время (МСК) | Дата |
 |------|----------|-------------|------|
-| [`russia_whitelist.txt`](https://github.com/FLEXIY0/matryoshka-vpn/raw/main/configs/russia_whitelist.txt) | Проверенные зарубежные узлы | 14:38 | 09.01.2026 |
+| [`russia_whitelist.txt`](https://github.com/FLEXIY0/matryoshka-vpn/raw/main/configs/russia_whitelist.txt) | Проверенные зарубежные узлы | 14:41 | 09.01.2026 |
 
 **Ссылка для подписки:**
 ```text
@@ -36,4 +36,12 @@ UQCD6FJjYM8T-oprHp6zb6X5-S-ETWiR27uIfXsuFv9fPQ2Z
 
 ---
 
-[![Star History Chart](https://api.star-history.com/svg?repos=FLEXIY0/matryoshka-vpn&type=Date)](https://star-history.com/#FLEXIY0/matryoshka-vpn&Date)
+
+
+<a href="https://www.star-history.com/#FLEXIY0/matryoshka-vpn&type=date&legend=top-left">
+ <picture>
+   <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=FLEXIY0/matryoshka-vpn&type=date&theme=dark&legend=top-left" />
+   <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=FLEXIY0/matryoshka-vpn&type=date&legend=top-left" />
+   <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=FLEXIY0/matryoshka-vpn&type=date&legend=top-left" />
+ </picture>
+</a>
