@@ -1,8 +1,5 @@
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0djhfMnFoc1pVV0tUQUJ0cEdUbWhIVnRWWXgydmdhWQ%3D%3D@max.ru:1234?type=tcp#%F0%9F%87%AA%F0%9F%87%BA%D0%90%D0%B2%D1%82%D0%BE%D0%BF%D0%BE%D0%B4%D0%BA%D0%BB%D1%8E%D1%87%D0%B5%D0%BD%D0%B8%D0%B5%20%D0%9C%D0%BE%D0%B1.%20%D0%B8%D0%BD%D1%82%D0%B5%D1%80%D0%BD%D0%B5%D1%82
-
-
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0djhfMnFoc1pVV0tUQUJ0cEdUbWhIVnRWWXgydmdhWQ%3D%3D@max.ru:1234?type=tcp#%F0%9F%87%AA%F0%9F%87%BA%D0%90%D0%B2%D1%82%D0%BE%D0%BF%D0%BE%D0%B4%D0%BA%D0%BB%D1%8E%D1%87%D0%B5%D0%BD%D0%B8%D0%B5%20%D0%9C%D0%BE%D0%B1.%20%D0%B8%D0%BD%D1%82%D0%B5%D1%80%D0%BD%D0%B5%D1%82
-
+vless://75356919-6ece-455c-ba7a-9f042a60d2c5@83.222.10.107:4100?path=%2Fv1&security=none&encryption=none&host=live.ok.ru&type=ws#AK1
+vless://75356919-6ece-455c-ba7a-9f042a60d2c5@91.198.220.226:4100?path=%2Fv1&security=none&encryption=none&host=live.ok.ru&type=ws#AK2
 vless://18f141df-7285-4834-8df6-6664fdeadfcf@84.201.132.186:443?mode=gun&security=reality&encryption=none&authority=&pbk=cjCwI7alv-GUgef0TW7i-S7jNgnIoZ6aooGYH7Nopxs&fp=chrome&allowinsecure=0&type=grpc&serviceName=GrpcFuckRKN&sni=www.microsoft.com&sid=a1b2c3d4#%F0%9F%87%B7%F0%9F%87%BA+LTE+I+%D0%9E%D0%91%D0%A5%D0%9E%D0%94+%D0%91%D0%A1
 vless://18f141df-7285-4834-8df6-6664fdeadfcf@84.201.132.186:9443?security=reality&encryption=none&pbk=FUrYQkpMWHhiL-7Z-okEFd9fAkTv0mt6Tpktd4vyoDE&headerType=none&fp=chrome&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=api-maps.yandex.ru&sid=a1b2c3d4e5f6789a#%F0%9F%87%B7%F0%9F%87%BA+LTE+I+%D0%9E%D0%91%D0%A5%D0%9E%D0%94+%D0%91%D0%A1
 vless://18f141df-7285-4834-8df6-6664fdeadfcf@158.160.245.254:9443?security=reality&encryption=none&pbk=FUrYQkpMWHhiL-7Z-okEFd9fAkTv0mt6Tpktd4vyoDE&headerType=none&fp=chrome&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=api-maps.yandex.ru&sid=a1b2c3d4e5f6789a#%F0%9F%87%B7%F0%9F%87%BA+LTE+I+%D0%9E%D0%91%D0%A5%D0%9E%D0%94+%D0%91%D0%A1
@@ -12,8 +9,6 @@ vless://Widum_9626912@s1.widumpn.com:443?type=tcp&security=reality&fp=random&pbk
 
 vless://Widum_3430738@s5.widumpn.com:443?type=tcp&security=reality&fp=chrome&pbk=kPZyzvk-wFfHtoxYn5_Hwokfe1qP3vS7V43dBlertxI&sni=apple.com&flow=xtls-rprx-vision&sid=ffffffffff&spx=%2F#Widum_3430738-✅Cервер 5
 
-
-vless://18f141df-7285-4834-8df6-6664fdeadfcf@95.85.227.186:9443?security=reality&encryption=none&pbk=FUrYQkpMWHhiL-7Z-okEFd9fAkTv0mt6Tpktd4vyoDE&headerType=none&fp=chrome&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=api-maps.yandex.ru&sid=a1b2c3d4e5f6789a#%F0%9F%87%B5%F0%9F%87%B1%D0%9F%D0%BE%D0%BB%D1%8C%D1%88%D0%B0
 
 
 vless://Widum_7826958@s3.widumpn.com:443?type=tcp&security=reality&fp=chrome&pbk=PJWoRPmkquPUjIy531-M4cd-aE-LsPyrV8BA6YsxL2U&sni=apple.com&flow=xtls-rprx-vision&sid=ffffffffff&spx=%2F#Widum_7826958-✅Cервер 3
@@ -25,19 +20,7 @@ vless://Widum_2226963@s4.widumpn.com:443?type=tcp&security=reality&fp=chrome&pbk
 
 
 
-vless://7741edf6-5fa9-4c87-8991-a0009ab1cf72@ne1.internetest.vip:443?security=reality&encryption=none&pbk=gNNN64zUdTGevr81Nyo4fyvPgSeXvnR9E-v6hB3SsRk&headerType=none&fp=chrome&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=ne1.internetest.vip&sid=13#%F0%9F%87%AA%F0%9F%87%BA%20%E2%9A%A1%20%D0%95%D0%B2%D1%80%D0%BE%D0%BF%D0%B0%20%C2%B7%20%D0%9E%D1%81%D0%BD%D0%BE%D0%B2%D0%BD%D0%BE%D0%B9
-
-
-
-vless://ae814981-2823-407b-b266-1b35baff534e@lte115.internetest.vip:443?security=reality&encryption=none&pbk=gNNN64zUdTGevr81Nyo4fyvPgSeXvnR9E-v6hB3SsRk&headerType=none&fp=chrome&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=ads.x5.ru&sid=13#%F0%9F%87%AA%F0%9F%87%BA%20LTE%20%E2%80%93%20%D0%95%D0%B2%D1%80%D0%BE%D0%BF%D0%B0%20%E2%80%93%20%E2%84%96%204
-
-
-
-vless://ae814981-2823-407b-b266-1b35baff534e@lte115.internetest.vip:8443?security=reality&encryption=none&pbk=gNNN64zUdTGevr81Nyo4fyvPgSeXvnR9E-v6hB3SsRk&headerType=none&fp=chrome&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=ads.x5.ru&sid=13#%F0%9F%87%B7%F0%9F%87%BA%20LTE%20-%20%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F
-
 vless://Widum_9626912@s1.widumpn.com:443?type=tcp&security=reality&fp=random&pbk=63kS89nHNyEgHoiJYY2IXG3Uua2VwmCBj3isnll-tAU&sni=login.vk.com&flow=xtls-rprx-vision&sid=ffffffffff&spx=%2F#обходы
-
-vless://ae814981-2823-407b-b266-1b35baff534e@lte111.internetest.vip:443?security=reality&encryption=none&pbk=gNNN64zUdTGevr81Nyo4fyvPgSeXvnR9E-v6hB3SsRk&headerType=none&fp=chrome&spx=%2F&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=ads.x5.ru&sid=13#%F0%9F%87%AA%F0%9F%87%BA+LTE+%E2%80%93+%D0%95%D0%B2%D1%80%D0%BE%D0%BF%D0%B0+%E2%80%93+%E2%84%96+3
 
 
 vless://18f141df-7285-4834-8df6-6664fdeadfcf@84.201.132.186:443?mode=gun&security=reality&encryption=none&authority=&pbk=cjCwI7alv-GUgef0TW7i-S7jNgnIoZ6aooGYH7Nopxs&fp=chrome&allowinsecure=0&type=grpc&serviceName=GrpcFuckRKN&sni=www.microsoft.com&sid=a1b2c3d4#%F0%9F%87%B7%F0%9F%87%BA+LTE+I+%D0%9E%D0%91%D0%A5%D0%9E%D0%94+%D0%91%D0%A1
