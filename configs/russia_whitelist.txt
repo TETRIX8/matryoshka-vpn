@@ -1,9 +1,6 @@
-vless://75356919-6ece-455c-ba7a-9f042a60d2c5@83.222.10.107:4100?path=%2Fv1&security=none&encryption=none&host=live.ok.ru&type=ws#AK1
-vless://75356919-6ece-455c-ba7a-9f042a60d2c5@91.198.220.226:4100?path=%2Fv1&security=none&encryption=none&host=live.ok.ru&type=ws#AK2
-vless://18f141df-7285-4834-8df6-6664fdeadfcf@84.201.132.186:443?mode=gun&security=reality&encryption=none&authority=&pbk=cjCwI7alv-GUgef0TW7i-S7jNgnIoZ6aooGYH7Nopxs&fp=chrome&allowinsecure=0&type=grpc&serviceName=GrpcFuckRKN&sni=www.microsoft.com&sid=a1b2c3d4#%F0%9F%87%B7%F0%9F%87%BA+LTE+I+%D0%9E%D0%91%D0%A5%D0%9E%D0%94+%D0%91%D0%A1
-vless://18f141df-7285-4834-8df6-6664fdeadfcf@84.201.132.186:9443?security=reality&encryption=none&pbk=FUrYQkpMWHhiL-7Z-okEFd9fAkTv0mt6Tpktd4vyoDE&headerType=none&fp=chrome&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=api-maps.yandex.ru&sid=a1b2c3d4e5f6789a#%F0%9F%87%B7%F0%9F%87%BA+LTE+I+%D0%9E%D0%91%D0%A5%D0%9E%D0%94+%D0%91%D0%A1
-vless://18f141df-7285-4834-8df6-6664fdeadfcf@158.160.245.254:9443?security=reality&encryption=none&pbk=FUrYQkpMWHhiL-7Z-okEFd9fAkTv0mt6Tpktd4vyoDE&headerType=none&fp=chrome&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=api-maps.yandex.ru&sid=a1b2c3d4e5f6789a#%F0%9F%87%B7%F0%9F%87%BA+LTE+I+%D0%9E%D0%91%D0%A5%D0%9E%D0%94+%D0%91%D0%A1
-
+vless://5d9e8510-fb14-44f3-af13-0392c99c8955@217.16.24.160:1695?security=reality&encryption=none&pbk=i9epPKdAdPciyXSrk6TR5fZb90aCiG5ioJj2aRp4Bi8&headerType=none&fp=qq&type=tcp&flow=xtls-rprx-vision&sni=max.ru&sid=c3607d#%F0%9F%9A%95%D0%A2%D0%90%D0%9A%D0%A1%D0%98 
+vless://5d9e8510-fb14-44f3-af13-0392c99c8955@89.208.229.253:1695?security=reality&encryption=none&pbk=dbe3HCS7E7QfvfN59Us7rV8Kasm_5CCUgKiGm8k8vRg&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=max.ru&sid=c3607d#%F0%9F%87%AA%F0%9F%87%BA%D0%92%D0%A1%D0%95%20%D0%9E%D0%9F%D0%95%D0%A0A%D0%A2%D0%9E%D0%A0%D0%AB%203%20%5BLTE%5D%F0%9F%93%B1 
+vless://5d9e8510-fb14-44f3-af13-0392c99c8955@109.120.190.41:1695?security=reality&encryption=none&pbk=dbe3HCS7E7QfvfN59Us7rV8Kasm_5CCUgKiGm8k8vRg&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=max.ru&sid=c3607d#%F0%9F%87%AA%F0%9F%87%BA%D0%92%D0%A1%D0%95%20%D0%9E%D0%9F%D0%95%D0%A0%D0%90%D0%A2%D0%9E%D0%A0%D0%AB%201%20%5BLTE%5D%F0%9F%93%B1
 vless://Widum_9626912@s1.widumpn.com:443?type=tcp&security=reality&fp=random&pbk=63kS89nHNyEgHoiJYY2IXG3Uua2VwmCBj3isnll-tAU&sni=login.vk.com&flow=xtls-rprx-vision&sid=ffffffffff&spx=%2F#Widum_9626912-✅Cервер 1
 
 
