@@ -4,11 +4,7 @@ vless://5d9e8510-fb14-44f3-af13-0392c99c8955@109.120.190.41:1695?security=realit
 vless://Widum_9626912@s1.widumpn.com:443?type=tcp&security=reality&fp=random&pbk=63kS89nHNyEgHoiJYY2IXG3Uua2VwmCBj3isnll-tAU&sni=login.vk.com&flow=xtls-rprx-vision&sid=ffffffffff&spx=%2F#Widum_9626912-✅Cервер 1
 
 
-vless://Widum_3430738@s5.widumpn.com:443?type=tcp&security=reality&fp=chrome&pbk=kPZyzvk-wFfHtoxYn5_Hwokfe1qP3vS7V43dBlertxI&sni=apple.com&flow=xtls-rprx-vision&sid=ffffffffff&spx=%2F#Widum_3430738-✅Cервер 5
 
-
-
-vless://Widum_7826958@s3.widumpn.com:443?type=tcp&security=reality&fp=chrome&pbk=PJWoRPmkquPUjIy531-M4cd-aE-LsPyrV8BA6YsxL2U&sni=apple.com&flow=xtls-rprx-vision&sid=ffffffffff&spx=%2F#Widum_7826958-✅Cервер 3
 
 
 vless://Widum_2226963@s4.widumpn.com:443?type=tcp&security=reality&fp=chrome&pbk=s8yEb3NmKYmQAOn2Duw9XysSJkYO0KqBEszJ3bNRzSk&sni=apple.com&flow=xtls-rprx-vision&sid=ffffffffff&spx=%2F#Widum_2226963-✅Cервер 4
