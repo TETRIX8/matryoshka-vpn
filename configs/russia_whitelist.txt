@@ -5,20 +5,8 @@ vless://916417b4-d601-4c33-b2e6-576175a297d4@ru5.cleanersaz.help:9443?mode=gun&s
 vless://916417b4-d601-4c33-b2e6-576175a297d4@clean.cleanersaz.help:4443?security=tls&encryption=none&alpn=h2,http/1.1&headerType=none&fp=chrome&allowinsecure=0&type=tcp&sni=clean.cleanersaz.help#%F0%9F%87%B7%F0%9F%87%BA+%D0%91%D0%B5%D0%BB%D1%8B%D0%B9_%D0%98%D0%BD%D1%82%D0%B5%D1%80%D0%BD%D0%B5%D1%82+6+LTE
 vless://5d9e8510-fb14-44f3-af13-0392c99c8955@109.120.190.41:1695?security=reality&encryption=none&pbk=dbe3HCS7E7QfvfN59Us7rV8Kasm_5CCUgKiGm8k8vRg&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=max.ru&sid=c3607d#обход6
 vless://Widum_9626912@s1.widumpn.com:443?type=tcp&security=reality&fp=random&pbk=63kS89nHNyEgHoiJYY2IXG3Uua2VwmCBj3isnll-tAU&sni=login.vk.com&flow=xtls-rprx-vision&sid=ffffffffff&spx=%2F#Widum_9626912-✅Cервер 1
-
-
-
-
-
 vless://Widum_2226963@s4.widumpn.com:443?type=tcp&security=reality&fp=chrome&pbk=s8yEb3NmKYmQAOn2Duw9XysSJkYO0KqBEszJ3bNRzSk&sni=apple.com&flow=xtls-rprx-vision&sid=ffffffffff&spx=%2F#Widum_2226963-✅Cервер 4
-
-
-
-
-
 vless://Widum_9626912@s1.widumpn.com:443?type=tcp&security=reality&fp=random&pbk=63kS89nHNyEgHoiJYY2IXG3Uua2VwmCBj3isnll-tAU&sni=login.vk.com&flow=xtls-rprx-vision&sid=ffffffffff&spx=%2F#обходы
-
-
 vless://18f141df-7285-4834-8df6-6664fdeadfcf@64.188.82.195:9443?security=reality&encryption=none&pbk=FUrYQkpMWHhiL-7Z-okEFd9fAkTv0mt6Tpktd4vyoDE&headerType=none&fp=chrome&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=api-maps.yandex.ru&sid=a1b2c3d4e5f6789a#%F0%9F%87%AA%F0%9F%87%AA+%D0%AD%D1%81%D1%82%D0%BE%D0%BD%D0%B8%D1%8F
 
 
