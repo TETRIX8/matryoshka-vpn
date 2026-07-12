@@ -1,13 +1,214 @@
-vless://916417b4-d601-4c33-b2e6-576175a297d4@ru.cleanersaz.help:4443?mode=gun&security=reality&encryption=none&authority=&pbk=TeLKwBR2dLcbcY-G8jySuzhC25-OOMLyjy-BkKAa1SY&fp=chrome&allowinsecure=0&type=grpc&serviceName=api-maps.yandex.ru&sni=api-maps.yandex.ru&sid=aaaa#%F0%9F%87%B7%F0%9F%87%BA+%D0%91%D0%B5%D0%BB%D1%8B%D0%B9_%D0%98%D0%BD%D1%82%D0%B5%D1%80%D0%BD%D0%B5%D1%82+4+LTE
-vless://916417b4-d601-4c33-b2e6-576175a297d4@ru5.cleanersaz.help:443?mode=gun&security=reality&encryption=none&authority=&pbk=DmpMjyYBIU4KdMNY-0M8TxX5OBrQQ1A5E28Y9_-VQDk&fp=randomized&allowinsecure=0&type=grpc&serviceName=mtdklsqa&sni=sun6-21.userapi.com&sid=aaaa#%F0%9F%87%B7%F0%9F%87%BA+%D0%91%D0%B5%D0%BB%D1%8B%D0%B9_%D0%98%D0%BD%D1%82%D0%B5%D1%80%D0%BD%D0%B5%D1%82+3.3+LTE+%D0%9D%D0%BE%D0%B2%D1%8B%D0%B5+%D0%B1%D0%BB%D0%BE%D0%BA%D0%B8%D1%80%D0%BE%D0%B2%D0%BA%D0%B8
-vless://916417b4-d601-4c33-b2e6-576175a297d4@ru5.cleanersaz.help:443?mode=gun&security=reality&encryption=none&authority=&pbk=3ZHq23cnEeKllJQYQ_S5TsAv-4grmPFAOY31z3QKOBU&fp=randomized&allowinsecure=0&type=grpc&serviceName=zrvxqfpn&sni=eh.vk.com&sid=aaaa#%F0%9F%87%B7%F0%9F%87%BA+%D0%91%D0%B5%D0%BB%D1%8B%D0%B9_%D0%98%D0%BD%D1%82%D0%B5%D1%80%D0%BD%D0%B5%D1%82+3.2+LTE+%D0%9D%D0%BE%D0%B2%D1%8B%D0%B5+%D0%B1%D0%BB%D0%BE%D0%BA%D0%B8%D1%80%D0%BE%D0%B2%D0%BA%D0%B8
-vless://916417b4-d601-4c33-b2e6-576175a297d4@ru5.cleanersaz.help:9443?mode=gun&security=reality&encryption=none&authority=&pbk=aqG2ZExCJNpGYiaJ2V13I46hlXI2H-_teN0o5xq5MmQ&fp=chrome&allowinsecure=0&type=grpc&serviceName=5post-gate.x5.ru&sni=5post-gate.x5.ru&sid=aaaa#%F0%9F%87%B7%F0%9F%87%BA+%D0%91%D0%B5%D0%BB%D1%8B%D0%B9_%D0%98%D0%BD%D1%82%D0%B5%D1%80%D0%BD%D0%B5%D1%82+3+LTE
-vless://916417b4-d601-4c33-b2e6-576175a297d4@clean.cleanersaz.help:4443?security=tls&encryption=none&alpn=h2,http/1.1&headerType=none&fp=chrome&allowinsecure=0&type=tcp&sni=clean.cleanersaz.help#%F0%9F%87%B7%F0%9F%87%BA+%D0%91%D0%B5%D0%BB%D1%8B%D0%B9_%D0%98%D0%BD%D1%82%D0%B5%D1%80%D0%BD%D0%B5%D1%82+6+LTE
-vless://5d9e8510-fb14-44f3-af13-0392c99c8955@109.120.190.41:1695?security=reality&encryption=none&pbk=dbe3HCS7E7QfvfN59Us7rV8Kasm_5CCUgKiGm8k8vRg&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=max.ru&sid=c3607d#обход6
-vless://Widum_9626912@s1.widumpn.com:443?type=tcp&security=reality&fp=random&pbk=63kS89nHNyEgHoiJYY2IXG3Uua2VwmCBj3isnll-tAU&sni=login.vk.com&flow=xtls-rprx-vision&sid=ffffffffff&spx=%2F#Widum_9626912-✅Cервер 1
-vless://Widum_2226963@s4.widumpn.com:443?type=tcp&security=reality&fp=chrome&pbk=s8yEb3NmKYmQAOn2Duw9XysSJkYO0KqBEszJ3bNRzSk&sni=apple.com&flow=xtls-rprx-vision&sid=ffffffffff&spx=%2F#Widum_2226963-✅Cервер 4
-vless://Widum_9626912@s1.widumpn.com:443?type=tcp&security=reality&fp=random&pbk=63kS89nHNyEgHoiJYY2IXG3Uua2VwmCBj3isnll-tAU&sni=login.vk.com&flow=xtls-rprx-vision&sid=ffffffffff&spx=%2F#обходы
-vless://18f141df-7285-4834-8df6-6664fdeadfcf@64.188.82.195:9443?security=reality&encryption=none&pbk=FUrYQkpMWHhiL-7Z-okEFd9fAkTv0mt6Tpktd4vyoDE&headerType=none&fp=chrome&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=api-maps.yandex.ru&sid=a1b2c3d4e5f6789a#%F0%9F%87%AA%F0%9F%87%AA+%D0%AD%D1%81%D1%82%D0%BE%D0%BD%D0%B8%D1%8F
-
-
-
+{
+  "remarks": "🇪🇺 LTE – Европа - Все операторы № 2",
+  "inbounds": [
+    {
+      "tag": "socks",
+      "listen": "127.0.0.1",
+      "port": 10808,
+      "protocol": "socks",
+      "settings": {
+        "auth": "noauth",
+        "udp": true,
+        "userLevel": 8
+      },
+      "sniffing": {
+        "enabled": true,
+        "destOverride": [
+          "http",
+          "tls",
+          "fakedns"
+        ]
+      }
+    },
+    {
+      "tag": "http",
+      "listen": "127.0.0.1",
+      "port": 10809,
+      "protocol": "http",
+      "settings": {
+        "userLevel": 8
+      }
+    }
+  ],
+  "outbounds": [
+    {
+      "tag": "proxy-ge3-vse-2",
+      "protocol": "vless",
+      "settings": {
+        "vnext": [
+          {
+            "address": "cdn6.internetest.vip",
+            "port": 443,
+            "users": [
+              {
+                "id": "d8734c3c-2744-483c-9784-047b188bc1d6",
+                "encryption": "none",
+                "flow": "xtls-rprx-vision"
+              }
+            ]
+          }
+        ]
+      },
+      "streamSettings": {
+        "network": "tcp",
+        "security": "reality",
+        "realitySettings": {
+          "fingerprint": "firefox",
+          "publicKey": "gNNN64zUdTGevr81Nyo4fyvPgSeXvnR9E-v6hB3SsRk",
+          "serverName": "fi1.internetest.vip",
+          "shortId": "13",
+          "spiderX": "/"
+        }
+      }
+    },
+    {
+      "tag": "lte-fallback-vse-2",
+      "protocol": "vless",
+      "settings": {
+        "vnext": [
+          {
+            "address": "lte111.internetest.vip",
+            "port": 443,
+            "users": [
+              {
+                "id": "f3255e07-6243-446a-95fa-dd3c951868f0",
+                "encryption": "none",
+                "flow": "xtls-rprx-vision"
+              }
+            ]
+          }
+        ]
+      },
+      "streamSettings": {
+        "network": "tcp",
+        "security": "reality",
+        "realitySettings": {
+          "fingerprint": "firefox",
+          "publicKey": "gNNN64zUdTGevr81Nyo4fyvPgSeXvnR9E-v6hB3SsRk",
+          "serverName": "ads.x5.ru",
+          "shortId": "13",
+          "spiderX": "/"
+        }
+      }
+    },
+    {
+      "tag": "direct",
+      "protocol": "freedom"
+    }
+  ],
+  "routing": {
+    "domainStrategy": "IPIfNonMatch",
+    "rules": [
+      {
+        "type": "field",
+        "domain": [
+          "geosite:private",
+          "domain:mail.ru",
+          "domain:gov.ru",
+          "pochta.ru",
+          "xn--80ajghhoc2aj1c8b.xn--p1ai",
+          "moskva.taximaxim.ru",
+          "tutu.ru",
+          "rambler.ru",
+          "lenta.ru",
+          "gazeta.ru",
+          "rbc.ru",
+          "kp.ru",
+          "government.ru",
+          "kremlin.ru",
+          "domain:userapi.com",
+          "m.47news.ru",
+          "digital.gov.ru",
+          "adm.digital.gov.ru",
+          "travel.yastatic.net",
+          "www.cikrf.ru",
+          "izbirkom.ru",
+          "domain:auto.ru",
+          "domain:cdn-vk.ru",
+          "domain:rzd.ru",
+          "domain:vtb.ru",
+          "receive-sentry.lmru.tech",
+          "domain:lemanapro.ru",
+          "gu-st.ru",
+          "domain:ya.ru",
+          "ws-api.oneme.ru",
+          "domain:rutubelist.ru",
+          "r0.mradx.net",
+          "domain:tbank.ru",
+          "domain:gosuslugi.ru",
+          "domain:vk-portal.net",
+          "domain:ozone.ru",
+          "domain:ozon.ru",
+          "domain:dzen.ru",
+          "domain:okcdn.ru",
+          "domain:ok.ru",
+          "domain:wb.ru",
+          "domain:wildberries.ru",
+          "domain:alfabank.ru",
+          "domain:cdn-tinkoff.ru",
+          "domain:yandex.com",
+          "domain:vk.com",
+          "domain:vk.ru",
+          "domain:max.ru",
+          "domain:t2.ru",
+          "domain:yastatic.net",
+          "domain:avito.ru",
+          "domain:yandex.ru",
+          "domain:rutube.ru",
+          "domain:kinopoisk.ru",
+          "domain:yandex.net",
+          "domain:2gis.ru",
+          "domain:2gis.com",
+          "domain:avito.st",
+          "domain:res-nsdi.ru",
+          "domain:samokat.ru"
+        ],
+        "outboundTag": "direct"
+      },
+      {
+        "type": "field",
+        "ip": [
+          "geoip:private"
+        ],
+        "outboundTag": "direct"
+      },
+      {
+        "type": "field",
+        "network": "tcp,udp",
+        "balancerTag": "BALANCER"
+      }
+    ],
+    "balancers": [
+      {
+        "tag": "BALANCER",
+        "selector": [
+          "proxy-ge3-vse-2"
+        ],
+        "strategy": {
+          "type": "leastLoad",
+          "settings": {
+            "maxRTT": "1s",
+            "expected": 10,
+            "baselines": [
+              "1s"
+            ],
+            "tolerance": 0.5
+          }
+        },
+        "fallbackTag": "lte-fallback-vse-2"
+      }
+    ]
+  },
+  "burstObservatory": {
+    "pingConfig": {
+      "destination": "http://www.gstatic.com/generate_204",
+      "interval": "20s",
+      "timeout": "3s",
+      "sampling": 1,
+      "connectivity": ""
+    },
+    "subjectSelector": [
+      "proxy-ge3-vse-2"
+    ]
+  }
+}
