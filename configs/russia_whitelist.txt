@@ -1,4 +1,4 @@
-{
+3{
   "remarks": "🇪🇺 LTE – Европа - Все операторы № 2",
   "inbounds": [
     {
@@ -209,6 +209,223 @@
     },
     "subjectSelector": [
       "proxy-ge3-vse-2"
+    ]
+  }
+}
+,
+{
+  "remarks": "🇪🇺 LTE – Европа (Билайн)",
+  "inbounds": [
+    {
+      "tag": "socks",
+      "listen": "127.0.0.1",
+      "port": 10808,
+      "protocol": "socks",
+      "settings": {
+        "auth": "noauth",
+        "udp": true,
+        "userLevel": 8
+      },
+      "sniffing": {
+        "enabled": true,
+        "destOverride": [
+          "http",
+          "tls",
+          "fakedns"
+        ]
+      }
+    },
+    {
+      "tag": "http",
+      "listen": "127.0.0.1",
+      "port": 10809,
+      "protocol": "http",
+      "settings": {
+        "userLevel": 8
+      }
+    }
+  ],
+  "outbounds": [
+    {
+      "tag": "proxy-ge3-beeline",
+      "protocol": "vless",
+      "settings": {
+        "vnext": [
+          {
+            "address": "cdn3.internetest.vip",
+            "port": 443,
+            "users": [
+              {
+                "id": "5600326a-6b6f-4898-bb3d-94aa5808a9a4",
+                "encryption": "none",
+                "flow": "xtls-rprx-vision"
+              }
+            ]
+          }
+        ]
+      },
+      "streamSettings": {
+        "network": "tcp",
+        "security": "reality",
+        "realitySettings": {
+          "fingerprint": "firefox",
+          "publicKey": "gNNN64zUdTGevr81Nyo4fyvPgSeXvnR9E-v6hB3SsRk",
+          "serverName": "fi1.internetest.vip",
+          "shortId": "13",
+          "spiderX": "/"
+        }
+      }
+    },
+    {
+      "tag": "selectel-111",
+      "protocol": "vless",
+      "settings": {
+        "vnext": [
+          {
+            "address": "185.91.52.22",
+            "port": 443,
+            "users": [
+              {
+                "id": "8c452e08-bbe6-4ae1-9eb9-b056ccaed3b3",
+                "encryption": "none",
+                "flow": "xtls-rprx-vision"
+              }
+            ]
+          }
+        ]
+      },
+      "streamSettings": {
+        "network": "tcp",
+        "security": "tls",
+        "tlsSettings": {
+          "serverName": "",
+          "alpn": [
+            "http/1.1",
+            "h2"
+          ],
+          "fingerprint": "firefox",
+          "allowInsecure": false
+        }
+      }
+    },
+    {
+      "tag": "direct",
+      "protocol": "freedom"
+    }
+  ],
+  "routing": {
+    "domainStrategy": "IPIfNonMatch",
+    "rules": [
+      {
+        "type": "field",
+        "domain": [
+          "geosite:private",
+          "domain:mail.ru",
+          "domain:gov.ru",
+          "pochta.ru",
+          "xn--80ajghhoc2aj1c8b.xn--p1ai",
+          "moskva.taximaxim.ru",
+          "tutu.ru",
+          "rambler.ru",
+          "lenta.ru",
+          "gazeta.ru",
+          "rbc.ru",
+          "kp.ru",
+          "government.ru",
+          "kremlin.ru",
+          "domain:userapi.com",
+          "m.47news.ru",
+          "digital.gov.ru",
+          "adm.digital.gov.ru",
+          "travel.yastatic.net",
+          "www.cikrf.ru",
+          "izbirkom.ru",
+          "domain:auto.ru",
+          "domain:cdn-vk.ru",
+          "domain:rzd.ru",
+          "domain:vtb.ru",
+          "receive-sentry.lmru.tech",
+          "domain:lemanapro.ru",
+          "gu-st.ru",
+          "domain:ya.ru",
+          "ws-api.oneme.ru",
+          "domain:rutubelist.ru",
+          "r0.mradx.net",
+          "domain:tbank.ru",
+          "domain:gosuslugi.ru",
+          "domain:vk-portal.net",
+          "domain:ozone.ru",
+          "domain:ozon.ru",
+          "domain:dzen.ru",
+          "domain:okcdn.ru",
+          "domain:ok.ru",
+          "domain:wb.ru",
+          "domain:wildberries.ru",
+          "domain:alfabank.ru",
+          "domain:cdn-tinkoff.ru",
+          "domain:yandex.com",
+          "domain:vk.com",
+          "domain:vk.ru",
+          "domain:max.ru",
+          "domain:t2.ru",
+          "domain:yastatic.net",
+          "domain:avito.ru",
+          "domain:yandex.ru",
+          "domain:rutube.ru",
+          "domain:kinopoisk.ru",
+          "domain:yandex.net",
+          "domain:2gis.ru",
+          "domain:2gis.com",
+          "domain:avito.st",
+          "domain:res-nsdi.ru",
+          "domain:samokat.ru"
+        ],
+        "outboundTag": "direct"
+      },
+      {
+        "type": "field",
+        "ip": [
+          "geoip:private"
+        ],
+        "outboundTag": "direct"
+      },
+      {
+        "type": "field",
+        "network": "tcp,udp",
+        "balancerTag": "BALANCER"
+      }
+    ],
+    "balancers": [
+      {
+        "tag": "BALANCER",
+        "selector": [
+          "proxy-ge3-beeline"
+        ],
+        "strategy": {
+          "type": "leastLoad",
+          "settings": {
+            "maxRTT": "1s",
+            "expected": 10,
+            "baselines": [
+              "1s"
+            ],
+            "tolerance": 0.5
+          }
+        },
+        "fallbackTag": "selectel-111"
+      }
+    ]
+  },
+  "burstObservatory": {
+    "pingConfig": {
+      "destination": "http://www.gstatic.com/generate_204",
+      "interval": "20s",
+      "timeout": "3s",
+      "sampling": 1,
+      "connectivity": ""
+    },
+    "subjectSelector": [
+      "proxy-ge3-beeline"
     ]
   }
 }
