@@ -32,3 +32,6 @@ vless://ab41778b-d4c4-45c9-b13f-691b644d8871@217.16.31.226:1829?security=reality
 
 
 vless://73c5bc6b-e785-458d-b012-ceffe17b4461@cdn5.internetest.vip:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=fi1.internetest.vip&fp=firefox&pbk=gNNN64zUdTGevr81Nyo4fyvPgSeXvnR9E-v6hB3SsRk&sid=13&spx=%2F&type=tcp#VipОбход
+
+
+vless://73c5bc6b-e785-458d-b012-ceffe17b4461@he1.internetest.vip:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=fi1.internetest.vip&fp=firefox&pbk=gNNN64zUdTGevr81Nyo4fyvPgSeXvnR9E-v6hB3SsRk&sid=13&spx=%2F&type=tcp#Vipобход2
