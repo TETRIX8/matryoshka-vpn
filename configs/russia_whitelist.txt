@@ -22,3 +22,10 @@ vless://a0766101-bcea-45d3-8ea2-421d1afcf47e@g3.widumpn.com:443?flow=xtls-rprx-v
 vless://a0766101-bcea-45d3-8ea2-421d1afcf47e@g1.widumpn.com:443?flow=xtls-rprx-vision&encryption=none&security=reality&sni=g1.widumpn.com&fp=firefox&pbk=VU3__VjVHmdrC4bV9PlFEJWY9LjVkDP4mtrZ5XhIIQo&sid=fccd3689a28ca971&type=tcp&headerType=none#%F0%9F%87%AB%F0%9F%87%AE%20%D0%A4%D0%B8%D0%BD%D0%BB%D1%8F%D0%BD%D0%B4%D0%B8%D1%8F
 
 
+vless://ab41778b-d4c4-45c9-b13f-691b644d8871@109.120.190.41:1829?security=reality&encryption=none&pbk=dbe3HCS7E7QfvfN59Us7rV8Kasm_5CCUgKiGm8k8vRg&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=ads.x5.ru&sid=c3607d#Обход1
+
+
+vless://ab41778b-d4c4-45c9-b13f-691b644d8871@217.16.31.226:1695?security=reality&encryption=none&pbk=dbe3HCS7E7QfvfN59Us7rV8Kasm_5CCUgKiGm8k8vRg&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=ads.x5.ru&sid=c3607d#Обход2
+
+
+vless://ab41778b-d4c4-45c9-b13f-691b644d8871@217.16.31.226:1829?security=reality&encryption=none&pbk=dbe3HCS7E7QfvfN59Us7rV8Kasm_5CCUgKiGm8k8vRg&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=ads.x5.ru&sid=c3607d#обход3
