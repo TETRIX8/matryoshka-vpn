@@ -1,37 +1,15 @@
 
-vless://a0766101-bcea-45d3-8ea2-421d1afcf47e@g7.widumpn.com:443?flow=xtls-rprx-vision&encryption=none&security=reality&sni=g7.widumpn.com&fp=firefox&pbk=MQws1mDbITAHjJCS5qpRluuXDR0U_hRgX43ba3PBUS0&sid=87111ee52608c71a&type=tcp&headerType=none#%F0%9F%87%B3%F0%9F%87%B1%20%D0%9D%D0%B8%D0%B4%D0%B5%D1%80%D0%BB%D0%B0%D0%BD%D0%B4%D1%8B%204
+vless://480c182e-00be-44bc-90ed-beb9fa39f113@g7.widumpn.com:443?flow=xtls-rprx-vision&encryption=none&security=reality&sni=g7.widumpn.com&fp=firefox&pbk=MQws1mDbITAHjJCS5qpRluuXDR0U_hRgX43ba3PBUS0&sid=87111ee52608c71a&type=tcp&headerType=none#%F0%9F%87%B3%F0%9F%87%B1%20%D0%9D%D0%B8%D0%B4%D0%B5%D1%80%D0%BB%D0%B0%D0%BD%D0%B4%D1%8B%204
 
 
-vless://a0766101-bcea-45d3-8ea2-421d1afcf47e@g6.widumpn.com:443?flow=xtls-rprx-vision&encryption=none&security=reality&sni=g6.widumpn.com&fp=firefox&pbk=_arMSxMqqY8Y6svTpxduFanJcVpUmY6vawsA2ULqM1Q&sid=bbeca9d0060e953c&type=tcp&headerType=none#%F0%9F%87%B3%F0%9F%87%B1%20%D0%9D%D0%B8%D0%B4%D0%B5%D1%80%D0%BB%D0%B0%D0%BD%D0%B4%D1%8B%203
+vless://480c182e-00be-44bc-90ed-beb9fa39f113@g6.widumpn.com:443?flow=xtls-rprx-vision&encryption=none&security=reality&sni=g6.widumpn.com&fp=firefox&pbk=_arMSxMqqY8Y6svTpxduFanJcVpUmY6vawsA2ULqM1Q&sid=bbeca9d0060e953c&type=tcp&headerType=none#%F0%9F%87%B3%F0%9F%87%B1%20%D0%9D%D0%B8%D0%B4%D0%B5%D1%80%D0%BB%D0%B0%D0%BD%D0%B4%D1%8B%203
+
+vless://480c182e-00be-44bc-90ed-beb9fa39f113@g5.widumpn.com:443?flow=xtls-rprx-vision&encryption=none&security=reality&sni=g5.widumpn.com&fp=firefox&pbk=8EtY8akm5Ro7nWML5w-jp9Iw3hw7LA55mgbmhuLyFU0&sid=05304de2fca00279&type=tcp&headerType=none#%F0%9F%87%B3%F0%9F%87%B1%20%D0%9D%D0%B8%D0%B4%D0%B5%D1%80%D0%BB%D0%B0%D0%BD%D0%B4%D1%8B%202
 
 
+vless://480c182e-00be-44bc-90ed-beb9fa39f113@g4.widumpn.com:443?flow=xtls-rprx-vision&encryption=none&security=reality&sni=g4.widumpn.com&fp=firefox&pbk=AXTjViy2GGFCPHmbA1sJm1Gy0scH17mG8yvmL00TF3k&sid=20393fd42fba8225&type=tcp&headerType=none#%F0%9F%87%B3%F0%9F%87%B1%20%D0%9D%D0%B8%D0%B4%D0%B5%D1%80%D0%BB%D0%B0%D0%BD%D0%B4%D1%8B%201
 
+vless://480c182e-00be-44bc-90ed-beb9fa39f113@g3.widumpn.com:443?flow=xtls-rprx-vision&encryption=none&security=reality&sni=g3.widumpn.com&fp=firefox&pbk=s9X-nWPaHwae83OQZ6M4Q4ZhZEECxT2ZirKBqfcwj2Q&sid=6939b1bdf249b33b&type=tcp&headerType=none#%F0%9F%87%A9%F0%9F%87%AA%20%D0%93%D0%B5%D1%80%D0%BC%D0%B0%D0%BD%D0%B8%D1%8F
 
-vless://a0766101-bcea-45d3-8ea2-421d1afcf47e@g5.widumpn.com:443?flow=xtls-rprx-vision&encryption=none&security=reality&sni=g5.widumpn.com&fp=firefox&pbk=8EtY8akm5Ro7nWML5w-jp9Iw3hw7LA55mgbmhuLyFU0&sid=05304de2fca00279&type=tcp&headerType=none#%F0%9F%87%B3%F0%9F%87%B1%20%D0%9D%D0%B8%D0%B4%D0%B5%D1%80%D0%BB%D0%B0%D0%BD%D0%B4%D1%8B%202
+vless://480c182e-00be-44bc-90ed-beb9fa39f113@g1.widumpn.com:443?flow=xtls-rprx-vision&encryption=none&security=reality&sni=g1.widumpn.com&fp=firefox&pbk=VU3__VjVHmdrC4bV9PlFEJWY9LjVkDP4mtrZ5XhIIQo&sid=fccd3689a28ca971&type=tcp&headerType=none#%F0%9F%87%AB%F0%9F%87%AE%20%D0%A4%D0%B8%D0%BD%D0%BB%D1%8F%D0%BD%D0%B4%D0%B8%D1%8F
 
-
-
-vless://a0766101-bcea-45d3-8ea2-421d1afcf47e@g4.widumpn.com:443?flow=xtls-rprx-vision&encryption=none&security=reality&sni=g4.widumpn.com&fp=firefox&pbk=AXTjViy2GGFCPHmbA1sJm1Gy0scH17mG8yvmL00TF3k&sid=20393fd42fba8225&type=tcp&headerType=none#%F0%9F%87%B3%F0%9F%87%B1%20%D0%9D%D0%B8%D0%B4%D0%B5%D1%80%D0%BB%D0%B0%D0%BD%D0%B4%D1%8B%201
-
-
-
-vless://a0766101-bcea-45d3-8ea2-421d1afcf47e@g3.widumpn.com:443?flow=xtls-rprx-vision&encryption=none&security=reality&sni=g3.widumpn.com&fp=firefox&pbk=s9X-nWPaHwae83OQZ6M4Q4ZhZEECxT2ZirKBqfcwj2Q&sid=6939b1bdf249b33b&type=tcp&headerType=none#%F0%9F%87%A9%F0%9F%87%AA%20%D0%93%D0%B5%D1%80%D0%BC%D0%B0%D0%BD%D0%B8%D1%8F
-
-
-
-vless://a0766101-bcea-45d3-8ea2-421d1afcf47e@g1.widumpn.com:443?flow=xtls-rprx-vision&encryption=none&security=reality&sni=g1.widumpn.com&fp=firefox&pbk=VU3__VjVHmdrC4bV9PlFEJWY9LjVkDP4mtrZ5XhIIQo&sid=fccd3689a28ca971&type=tcp&headerType=none#%F0%9F%87%AB%F0%9F%87%AE%20%D0%A4%D0%B8%D0%BD%D0%BB%D1%8F%D0%BD%D0%B4%D0%B8%D1%8F
-
-
-vless://ab41778b-d4c4-45c9-b13f-691b644d8871@109.120.190.41:1829?security=reality&encryption=none&pbk=dbe3HCS7E7QfvfN59Us7rV8Kasm_5CCUgKiGm8k8vRg&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=ads.x5.ru&sid=c3607d#Обход1
-
-
-vless://ab41778b-d4c4-45c9-b13f-691b644d8871@217.16.31.226:1695?security=reality&encryption=none&pbk=dbe3HCS7E7QfvfN59Us7rV8Kasm_5CCUgKiGm8k8vRg&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=ads.x5.ru&sid=c3607d#Обход2
-
-
-vless://ab41778b-d4c4-45c9-b13f-691b644d8871@217.16.31.226:1829?security=reality&encryption=none&pbk=dbe3HCS7E7QfvfN59Us7rV8Kasm_5CCUgKiGm8k8vRg&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=ads.x5.ru&sid=c3607d#обход3
-
-
-vless://73c5bc6b-e785-458d-b012-ceffe17b4461@cdn5.internetest.vip:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=fi1.internetest.vip&fp=firefox&pbk=gNNN64zUdTGevr81Nyo4fyvPgSeXvnR9E-v6hB3SsRk&sid=13&spx=%2F&type=tcp#VipОбход
-
-
-vless://73c5bc6b-e785-458d-b012-ceffe17b4461@he1.internetest.vip:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=fi1.internetest.vip&fp=firefox&pbk=gNNN64zUdTGevr81Nyo4fyvPgSeXvnR9E-v6hB3SsRk&sid=13&spx=%2F&type=tcp#Vipобход2
